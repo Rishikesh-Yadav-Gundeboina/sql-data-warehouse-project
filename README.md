@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a data warehouse with SQL server. Including ETL processes, data modeling and analytics
+Building a data warehouse with SQL server. Including ETL processes, data modeling and analytics using Medallion Architecture.
 
 
 
